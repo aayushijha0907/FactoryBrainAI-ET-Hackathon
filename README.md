@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=FactoryBrain-AI-ET-Hackathon&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 # ET-Hackathon_Statement8
-### ET HACKATHON PROBLEM STATEMENT 8- TEAM: AAYUSHI AND SANIKA 
+### ET HACKATHON PROBLEM STATEMENT 8- TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
 
 [![Stars](https://img.shields.io/github/stars/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/stargazers)
 [![Forks](https://img.shields.io/github/forks/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/forks)
