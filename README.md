@@ -3,6 +3,7 @@
 
 
 ### ET HACKATHON PROBLEM STATEMENT 8
+### TEAM NAME- Aayushi_sanika
 ### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
 
 [![Stars](https://img.shields.io/github/stars/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/stargazers)
