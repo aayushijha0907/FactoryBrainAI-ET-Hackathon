@@ -5,11 +5,13 @@
 ### ET HACKATHON PROBLEM STATEMENT 8
 ### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
 
-[![Stars](https://img.shields.io/github/stars/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/stargazers)
-[![Forks](https://img.shields.io/github/forks/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/forks)
-[![Issues](https://img.shields.io/github/issues/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=F59E0B)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/issues)
-[![License](https://img.shields.io/github/license/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=10B981)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/stargazers)
+[![Forks](https://img.shields.io/github/forks/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/forks)
+[![Issues](https://img.shields.io/github/issues/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=F59E0B)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/issues)
+[![License](https://img.shields.io/github/license/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=10B981)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/blob/main/LICENSE)
 </div>
+
+
 
 ---
 
@@ -52,18 +54,19 @@ By turning fragmented information into actionable intelligence, FactoryBrain AI 
 ## 📂 Project Structure
 
 ```
-ET-Hackathon_Statement8/
+FactoryBrain-AI-ET-Hackathon/
+│   ├── 📄 LICENSE
 │   ├── 📄 README.md
 ```
+
 
 
 ---
 
 ## 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,geminiapi,langchain,chromadb,faiss,pymupdf,pandas,networkx,ocrtesseract,neo4j" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=pythonstreamlit,fastapi,geminiapi,langchain,chromadb,faiss,pymupdf,ocrtesseract,networkx,pandas" alt="Tech Stack" />
 </p>
-
 ---
 
 ## ⚙️ Installation
