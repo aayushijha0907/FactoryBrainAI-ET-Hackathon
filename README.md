@@ -13,8 +13,8 @@
 
 ---
 
-# 📖 Overview
-## The Problem Statement 
+#  Overview
+## 📖 The Problem Statement 
 
 ET HACKATHON PROBLEM STATEMENT 8- 
 Industrial organizations store critical information across thousands of disconnected documents, including maintenance records, safety procedures, engineering drawings, inspection reports, and operational manuals. This fragmented knowledge makes it difficult for engineers to quickly access accurate information, leading to increased downtime, repeated failures, compliance challenges, and loss of institutional knowledge. This project aims to build an AI-powered platform that unifies industrial knowledge, enabling intelligent document search, contextual question answering, maintenance insights, and compliance support through a single interface.
