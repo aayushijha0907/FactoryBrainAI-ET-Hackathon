@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=FactoryBrainAI-ET-Hackathon&fontSize=50&fontColor=fff&animation=twinkling"/>
 
-# ET-Hackathon_Statement8
-### ET HACKATHON PROBLEM STATEMENT 8- 
+
+### ET HACKATHON PROBLEM STATEMENT 8
 ### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
 
 [![Stars](https://img.shields.io/github/stars/aayushijha0907/ET-Hackathon_Statement8?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/ET-Hackathon_Statement8/stargazers)
@@ -13,7 +13,8 @@
 
 ---
 
-## 📖 Overview- The Problem Statement 
+# 📖 Overview
+## The Problem Statement 
 
 ET HACKATHON PROBLEM STATEMENT 8- 
 Industrial organizations store critical information across thousands of disconnected documents, including maintenance records, safety procedures, engineering drawings, inspection reports, and operational manuals. This fragmented knowledge makes it difficult for engineers to quickly access accurate information, leading to increased downtime, repeated failures, compliance challenges, and loss of institutional knowledge. This project aims to build an AI-powered platform that unifies industrial knowledge, enabling intelligent document search, contextual question answering, maintenance insights, and compliance support through a single interface.
