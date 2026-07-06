@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ChromaDB
+chroma_db/
+
+# Uploaded Documents
+uploads/
+
+# Generated Embeddings
+embeddings/
+
+# Temporary Files
+temp/
+
+# Testing
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
