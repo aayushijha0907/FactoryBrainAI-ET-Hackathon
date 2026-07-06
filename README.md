@@ -55,9 +55,78 @@ By turning fragmented information into actionable intelligence, FactoryBrain AI 
 ## 📂 Project Structure
 
 ```
-FactoryBrain-AI-ET-Hackathon/
-│   ├── 📄 LICENSE
-│   ├── 📄 README.md
+FactoryBrainAI/
+│
+├── 📄 README.md
+├── 📄 LICENSE
+├── 📄 requirements.txt
+├── 📄 .gitignore
+├── 📄 .env.example
+│
+├── 📂 app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── config.py
+│   └── constants.py
+│
+├── 📂 frontend/
+│   ├── home.py
+│   ├── chat.py
+│   ├── upload.py
+│   ├── dashboard.py
+│   └── graph_view.py
+│
+├── 📂 backend/
+│   ├── rag.py
+│   ├── embeddings.py
+│   ├── vectorstore.py
+│   ├── retriever.py
+│   ├── llm.py
+│   └── prompts.py
+│
+├── 📂 agents/
+│   ├── document_agent.py
+│   ├── compliance_agent.py
+│   ├── maintenance_agent.py
+│   ├── graph_agent.py
+│   └── orchestrator.py
+│
+├── 📂 document_processing/
+│   ├── pdf_parser.py
+│   ├── ocr.py
+│   ├── chunking.py
+│   ├── metadata.py
+│   └── extractor.py
+│
+├── 📂 knowledge_graph/
+│   ├── graph_builder.py
+│   ├── entity_extraction.py
+│   └── visualization.py
+│
+├── 📂 database/
+│   ├── chromadb_manager.py
+│   └── history.py
+│
+├── 📂 utils/
+│   ├── helpers.py
+│   ├── logger.py
+│   └── validators.py
+│
+├── 📂 assets/
+│   ├── logo.png
+│   ├── architecture.png
+│   └── screenshots/
+│
+├── 📂 sample_documents/
+│   ├── pump_manual.pdf
+│   ├── inspection_report.pdf
+│   └── safety_sop.pdf
+│
+└── 📂 tests/
+    ├── test_rag.py
+    ├── test_agents.py
+    └── test_parser.py
+
 ```
 
 
