@@ -6,10 +6,10 @@
 ### TEAM NAME- Aayushi_sanika
 ### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
 
-[![Stars](https://img.shields.io/github/stars/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/stargazers)
-[![Forks](https://img.shields.io/github/forks/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/forks)
-[![Issues](https://img.shields.io/github/issues/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=F59E0B)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/issues)
-[![License](https://img.shields.io/github/license/aayushijha0907/FactoryBrain-AI-ET-Hackathon?style=for-the-badge&color=10B981)](https://github.com/aayushijha0907/FactoryBrain-AI-ET-Hackathon/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/stargazers)
+[![Forks](https://img.shields.io/github/forks/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/forks)
+[![Issues](https://img.shields.io/github/issues/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=F59E0B)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/issues)
+[![License](https://img.shields.io/github/license/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=10B981)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/blob/main/LICENSE)
 </div>
 
 
@@ -152,8 +152,8 @@ FactoryBrainAI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/aayushijha0907/ET-Hackathon_Statement8.git
-cd ET-Hackathon_Statement8
+git clone https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon.git
+cd FactoryBrainAI-ET-Hackathon
 
 # Install dependencies
 pip install -r requirements.txt
@@ -189,8 +189,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👥 Contributors
 
-<a href="https://github.com/aayushijha0907/ET-Hackathon_Statement8/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aayushijha0907/ET-Hackathon_Statement8" />
+<a href="https://github.com/aayushijha0907/FactoryBrainAI-ET_Hackathon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aayushijha0907/FactoryBrainAI-ET_Hackathon" />
 </a>
 
 
