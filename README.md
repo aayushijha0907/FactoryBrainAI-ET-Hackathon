@@ -64,8 +64,17 @@ FactoryBrain-AI-ET-Hackathon/
 ---
 
 ## 🚀 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pythonstreamlit,fastapi,geminiapi,langchain,chromadb,faiss,pymupdf,ocrtesseract,networkx,pandas" alt="Tech Stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge&logo=databricks&logoColor=white" alt="Chroma" />
 </p>
 ---
 
