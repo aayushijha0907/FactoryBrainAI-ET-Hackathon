@@ -187,11 +187,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
+
 ## 👥 Contributors
 
-<a href="https://github.com/aayushijha0907/FactoryBrainAI-ET_Hackathon/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aayushijha0907/FactoryBrainAI-ET_Hackathon" />
-</a>
+<p align="center">
+  <a href="https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=aayushijha0907/FactoryBrainAI-ET-Hackathon" alt="Contributors" />
+  </a>
+</p>
 
 
 
