@@ -1,5 +1,5 @@
 """
-graph_visualizer.py
+visualization.py
 Creates beautiful interactive knowledge graph visualizations using PyVis.
 """
 
