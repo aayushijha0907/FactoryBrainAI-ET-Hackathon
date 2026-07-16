@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="assets/logo.png" width="100"/>
 </div>
 
-<div align="right">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=FactoryBrainAI-ET-Hackathon&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 
