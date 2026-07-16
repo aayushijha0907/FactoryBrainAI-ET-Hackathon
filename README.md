@@ -2,6 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=FactoryBrainAI-ET-Hackathon&fontSize=50&fontColor=fff&animation=twinkling"/>
 
 
+<div align="center">
+  <img src="assets/logo.png" width="200"/>
+</div>
+
+
 ### ET HACKATHON PROBLEM STATEMENT 8
 ### TEAM NAME- Aayushi_sanika
 ### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
