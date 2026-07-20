@@ -8,7 +8,7 @@
 
 ### ET HACKATHON PROBLEM STATEMENT 8
 ### TEAM NAME- Aayushi_sanika
-### TEAM MEMBERS : AAYUSHI JHA AND SANIKA CHANDRATRE
+### TEAM MEMBER : AAYUSHI JHA 
 
 [![Stars](https://img.shields.io/github/stars/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=7C3AED)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/stargazers)
 [![Forks](https://img.shields.io/github/forks/aayushijha0907/FactoryBrainAI-ET-Hackathon?style=for-the-badge&color=58A6FF)](https://github.com/aayushijha0907/FactoryBrainAI-ET-Hackathon/forks)
@@ -200,14 +200,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
         <img src="https://github.com/aayushijha0907.png" width="100px;" alt="Aayushi Jha"/><br>
         <sub><b>Aayushi Jha</b></sub>
       </a>
+    </tr>
     </td>
-    <td align="center">
-      <a href="https://github.com/SanikaChandratre">
-        <img src="https://github.com/SanikaChandratre.png" width="100px;" alt="Sanika Chandratre"/><br>
-        <sub><b>Sanika Chandratre</b></sub>
-      </a>
-    </td>
-  </tr>
 </table>
 
 
